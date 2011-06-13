@@ -1,0 +1,8 @@
+
+*.suo
+*.user
+*.cachefile
+/HighResolutionContent/obj
+/HighResolutionContent/bin
+/SharedContent/bin
+/SharedContent/obj
